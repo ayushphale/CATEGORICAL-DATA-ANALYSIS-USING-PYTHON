@@ -1,8 +1,7 @@
 <h1 align="center"><b>Categorical Data Analysis Using Python 📊</b></h1>
 
-<p align="center">
-A beginner-friendly guide to understanding categorical data and how it is analyzed using Python.
-</p>
+
+
 
 ---
 
